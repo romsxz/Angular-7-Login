@@ -1,0 +1,7 @@
+@import url(https://unpkg.com/bootstrap@5.3.2/dist/css/bootstrap.min.css);
+.invalid {
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: .875em;
+    color: var(--bs-form-invalid-color);
+}
